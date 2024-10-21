@@ -25,7 +25,7 @@ Contributions are what make the open source community such an amazing place to l
 
 
 #### Test
-- This branch is used to test a collection of newly added features, which will eventually become a future iteration of our application after thoroughly testing for bugs and code/guideline consistency. If you are interested in creating your own feature, we suggest that you first open an issue here: https://github.com/the-api-administration/coding-resources-api/issues and wait for our team(me) to respond to your message and approve the implementation. If you are interested in taking responsibility for the implementation, please assign yourself to the issue once you submit it, so that our team can note your interest.
+- This branch is used to test a collection of newly added features, which will eventually become a future iteration of our application after thoroughly testing for bugs and code/guideline consistency. If you are interested in creating your own feature, we suggest that you first open an issue here: https://github.com/Ratnesh-Rajput/crypto-info-api-v2/issues and wait for our team(me) to respond to your message and approve the implementation. If you are interested in taking responsibility for the implementation, please assign yourself to the issue once you submit it, so that our team can note your interest.
 
 
 
