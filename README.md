@@ -125,15 +125,15 @@ Distributed under the MIT License. See <a href="https://github.com/Ratnesh-Rajpu
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/rahulkarda/crypto-info-api.svg?style=for-the-badge
-[contributors-url]: https://github.com/rahulkarda/crypto-info-api/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/rahulkarda/crypto-info-api.svg?style=for-the-badge
-[forks-url]: https://github.com/rahulkarda/crypto-info-api/network/members
-[stars-shield]: https://img.shields.io/github/stars/rahulkarda/crypto-info-api.svg?style=for-the-badge
-[stars-url]: https://github.com/rahulkarda/crypto-info-api/stargazers
-[pullrequests-shield]: https://img.shields.io/github/issues-pr/rahulkarda/crypto-info-api?color=red&label=Pull%20Requests&style=for-the-badge
-[pullrequests-url]: https://github.com/rahulkarda/crypto-info-api/pulls
-[issues-shield]: https://img.shields.io/github/issues/rahulkarda/crypto-info-api.svg?style=for-the-badge
-[issues-url]: https://github.com/rahulkarda/crypto-info-api/issues
-[license-shield]: https://img.shields.io/github/license/rahulkarda/crypto-info-api.svg?style=for-the-badge
-[license-url]: https://github.com/rahulkarda/crypto-info-api/blob/master/LICENSE.md
+[contributors-shield]: https://img.shields.io/github/contributors/Ratnesh-Rajput/crypto-info-api-v2.svg?style=for-the-badge
+[contributors-url]: https://github.com/Ratnesh-Rajput/crypto-info-api-v2/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Ratnesh-Rajput/crypto-info-api-v2.svg?style=for-the-badge
+[forks-url]: https://github.com/Ratnesh-Rajput/crypto-info-api-v2/network/members
+[stars-shield]: https://img.shields.io/github/stars/Ratnesh-Rajput/crypto-info-api-v2.svg?style=for-the-badge
+[stars-url]: https://github.com/Ratnesh-Rajput/crypto-info-api-v2/stargazers
+[pullrequests-shield]: https://img.shields.io/github/issues-pr/Ratnesh-Rajput/crypto-info-api-v2?color=red&label=Pull%20Requests&style=for-the-badge
+[pullrequests-url]: https://github.com/Ratnesh-Rajput/crypto-info-api-v2/pulls
+[issues-shield]: https://img.shields.io/github/issues/Ratnesh-Rajput/crypto-info-api-v2.svg?style=for-the-badge
+[issues-url]:https://github.com/Ratnesh-Rajput/crypto-info-api-v2/
+[license-shield]: https://img.shields.io/github/license/Ratnesh-Rajput/crypto-info-api-v2.svg?style=for-the-badge
+[license-url]: https://github.com/Ratnesh-Rajput/crypto-info-api-v2/blob/main/LICENSE.md
