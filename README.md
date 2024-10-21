@@ -120,7 +120,7 @@ Distributed under the MIT License. See <a href="https://github.com/rahulkarda/cr
 
 ## Acknowledgments
 
-- [@RahulKarda](https://twitter.com/Ratnesh7_Rajput)
+- [@RahulKarda](https://twitter.com/rahulkarda2002)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
