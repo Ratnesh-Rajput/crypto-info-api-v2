@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Ratnesh-Rajput">
-    <img src="[https://github.com/Ratnesh-Rajput/crypto-info-api-v2/blob/master/public/assets/github-logo.jpg?raw=true](https://github.com/Ratnesh-Rajput/crypto-info-api-v2/blob/main/public/assets/github-logo.jpg?raw=true)" alt="Logo" width="200">
+    <img src="https://github.com/rahulkarda/crypto-info-api/blob/master/public/assets/github-logo.jpg?raw=true" alt="Logo" width="200">
   </a>
 
 <h3 align="center">Crypto Info API</h3>
