@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/rahulkarda">
+  <a href="https://github.com/Ratnesh-Rajput">
     <img src="https://github.com/rahulkarda/crypto-info-api/blob/master/public/assets/github-logo.jpg?raw=true" alt="Logo" width="200">
   </a>
 
@@ -21,14 +21,14 @@
   <p align="center">
     Provides Info about Crypto
     <br />
-    <a href="https://github.com/rahulkarda/crypto-info-api"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Ratnesh-Rajput/crypto-info-api-v2"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://crypto-info-api.cyclic.app/">View Demo</a>
     ·
-    <a href="https://github.com/rahulkarda/crypto-info-api/issues">Report Bug</a>
+    <a href="https://github.com/Ratnesh-Rajput/crypto-info-api-v2/issues">Report Bug</a>
     ·
-    <a href="https://github.com/rahulkarda/crypto-info-api/issues">Request Feature</a>
+    <a href="https://github.com/Ratnesh-Rajput/crypto-info-api-v2/issues">Request Feature</a>
   </p>
 </div>
 
@@ -73,7 +73,7 @@ Search for cryptocurrencies by relevant keywords. This API serves informational 
 
 ## Getting Started
 
-Simply visit: <a href="https://crypto-info-api.cyclic.app/">https://crypto-info-api.cyclic.app/</a> and read our documentation to learn how to interact with our API! If you would like to help us out, feel free to create issues through our GitHub repo.
+Simply visit: <a href="link"></a> and read our documentation to learn how to interact with our API! If you would like to help us out, feel free to create issues through our GitHub repo.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -94,7 +94,7 @@ Access our API endpoints to receive cryptocurrency data in JSON format.
 - [X] Support mobile devices
 - [ ] Create more endpoints
 
-See the [open issues](https://github.com/rahulkarda/crypto-info-api/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Ratnesh-Rajput/crypto-info-api-v2/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -120,7 +120,7 @@ Distributed under the MIT License. See <a href="https://github.com/rahulkarda/cr
 
 ## Acknowledgments
 
-- [@RahulKarda](https://twitter.com/rahulkarda2002)
+- [@RahulKarda](https://twitter.com/Ratnesh7_Rajput)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
