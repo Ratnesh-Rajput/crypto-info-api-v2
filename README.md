@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Ratnesh-Rajput">
-    <img src="https://github.com/rahulkarda/crypto-info-api/blob/master/public/assets/github-logo.jpg?raw=true" alt="Logo" width="200">
+    <img src="https://github.com/Ratnesh-Rajput/crypto-info-api-v2/blob/master/public/assets/github-logo.jpg?raw=true" alt="Logo" width="200">
   </a>
 
 <h3 align="center">Crypto Info API</h3>
@@ -24,7 +24,7 @@
     <a href="https://github.com/Ratnesh-Rajput/crypto-info-api-v2"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://crypto-info-api.cyclic.app/">View Demo</a>
+    <a href="crypto-info-api-v2.onrender.com/">View Demo</a>
     ·
     <a href="https://github.com/Ratnesh-Rajput/crypto-info-api-v2/issues">Report Bug</a>
     ·
@@ -73,7 +73,7 @@ Search for cryptocurrencies by relevant keywords. This API serves informational 
 
 ## Getting Started
 
-Simply visit: <a href="link"></a> and read our documentation to learn how to interact with our API! If you would like to help us out, feel free to create issues through our GitHub repo.
+Simply visit: <a href="crypto-info-api-v2.onrender.com/"></a> and read our documentation to learn how to interact with our API! If you would like to help us out, feel free to create issues through our GitHub repo.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -104,7 +104,7 @@ See the [open issues](https://github.com/Ratnesh-Rajput/crypto-info-api-v2/issue
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-Please visit <a href="https://github.com/rahulkarda/crypto-info-api/blob/main/CONTRIBUTING.md">`CONTRIBUTING.md`</a> to read about our guidelines before making a contribution to our project. Thank you!
+Please visit <a href="https://github.com/Ratnesh-Rajput/crypto-info-api-v2/blob/main/CONTRIBUTING.md">`CONTRIBUTING.md`</a> to read about our guidelines before making a contribution to our project. Thank you!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -112,7 +112,7 @@ Please visit <a href="https://github.com/rahulkarda/crypto-info-api/blob/main/CO
 
 ## License
 
-Distributed under the MIT License. See <a href="https://github.com/rahulkarda/crypto-info-api/blob/main/LICENSE.md">`LICENSE.md`</a> for more information.
+Distributed under the MIT License. See <a href="https://github.com/Ratnesh-Rajput/crypto-info-api-v2/blob/main/LICENSE.md">`LICENSE.md`</a> for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
