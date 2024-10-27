@@ -11,7 +11,7 @@ app.use('/public', express.static(__dirname + '/../public'));
 
 app.get('/', (req, res) => {
 	if (cryptocurrencies) {
-		res.render('../views/index.ejs', { cryptocurrencies });
+		res.render('/../views/index.ejs', { cryptocurrencies });
 	} else {
 		// respond with status 500 if the cryptocurrencies array could not be loaded from cryptocurrencies.js
 		res.status(500).json({
