@@ -1,17 +1,17 @@
 const express = require('express');
 const app = express();
 const cors = require('cors');
-const { cryptocurrencies } = require("./cryptocurrencies");
+const { cryptocurrencies } = require("../cryptocurrencies");
 const PORT = process.env.PORT || 8000;
 
-app.set('view engine', 'ejs')
+app.set('view engine', 'ejs');
 app.use(cors());
-app.use(express.static(__dirname + '/public'));
-app.use('/public', express.static(__dirname + '/public'));
+app.use(express.static(__dirname + '/../public')); // Adjusted path for public folder
+app.use('/public', express.static(__dirname + '/../public'));
 
 app.get('/', (req, res) => {
 	if (cryptocurrencies) {
-		res.render('index.ejs', { cryptocurrencies });
+		res.render('../views/index.ejs', { cryptocurrencies });
 	} else {
 		// respond with status 500 if the cryptocurrencies array could not be loaded from cryptocurrencies.js
 		res.status(500).json({
